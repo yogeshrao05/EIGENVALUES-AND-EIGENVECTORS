@@ -23,9 +23,9 @@ import numpy as np
 a=np.array([[-2,2,-3],[2,1,-6],[-1,-2,0]])
 value,vector=np.linalg.eig(a)
 print("Eigen values are {} and Eigen Vectors are {}".format(value,vector))
-
-## Output:
 ```
+## Output:
+
 ![image](https://user-images.githubusercontent.com/122008288/227437288-5d557ee7-86e0-4631-8bfa-b73f4cf7fb2a.png)
 
 
